@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 49.009%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 36.466%;" class="progress-item"></span><span style="background-color: #3178c6;width: 14.526%;" class="progress-item"></span>
+<span style="background-color: #ff5a03;width: 37.583%;" class="progress-item"></span><span style="background-color: #3572A5;width: 28.007%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 21.110%;" class="progress-item"></span><span style="background-color: #3178c6;width: 13.203%;" class="progress-item"></span><span style="background-color: #663399;width: 0.097%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -140,29 +140,47 @@ div.ellipsis {
 
 
 <li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff5a03;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Python</span>
-<span class="percent">49.01%</span>
+<span class="lang">Astro</span>
+<span class="percent">37.58%</span>
 </li>
 
 
 <li style="animation-delay: 150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JavaScript</span>
-<span class="percent">36.47%</span>
+<span class="lang">Python</span>
+<span class="percent">28.01%</span>
 </li>
 
 
 <li style="animation-delay: 300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">JavaScript</span>
+<span class="percent">21.11%</span>
+</li>
+
+
+<li style="animation-delay: 450ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3178c6;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">14.53%</span>
+<span class="percent">13.20%</span>
+</li>
+
+
+<li style="animation-delay: 600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#663399;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CSS</span>
+<span class="percent">0.10%</span>
 </li>
 
 
